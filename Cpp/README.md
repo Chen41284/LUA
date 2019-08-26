@@ -17,3 +17,15 @@ split = book.split
 --根据传入的字符串和表格，使用标中的映射关系替换字符串（第一个参数），然后返回最终的字符串
 transliterate = book.transliterate
 ```
+
+### array
+使用int存储Bool类型的数组
+
+### dir
+读取目录下的文件
+
+### lxp
+XML文件的读取
+
+### lproc
+封装pthread库的一个发送和接受的简单实例
